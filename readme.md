@@ -1,0 +1,1 @@
+ola esse projeto te ensina a uar o git
